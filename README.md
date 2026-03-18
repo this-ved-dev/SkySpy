@@ -1,5 +1,5 @@
-# Weather App
-
+# SkySpy - A Socially Anxious Weather App
+An app that watches the clouds so you don't have to make eye contact with the sun. Real-time data for people who plan their life around avoiding rain.
 A sleek, responsive weather application built with vanilla JavaScript that displays real-time weather data for any location worldwide. The app features automatic geolocation detection, manual city search, and a modern gradient UI.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
